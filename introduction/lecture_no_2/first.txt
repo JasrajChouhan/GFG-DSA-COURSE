@@ -1,0 +1,17 @@
+Topic Name : Order of growth
+
+An important order ☺️
+
+c < log(log n) < log(n) < n^1/3 < n^1/2 < n < n^2 < n^3 < n^4 < 2^n < n^n
+
+Find the order of growth of following mathmetical functions
+
+1:  F(n) = c(log n) + k(2) + 9  , Where c and k are constant
+2:  G(n) = v(n) + log(log n) * 3 + c  , Where v and c and constant
+
+
+Answer : 
+1 -> log(n)
+2 -> n
+
+Important Note : A higher order growth functions always slower with compare to other.
