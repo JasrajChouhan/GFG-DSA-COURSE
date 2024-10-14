@@ -1,6 +1,6 @@
 Topic Name : Order of growth
 
-An important order ☺️
+An important order 
 
 c < log(log n) < log(n) < n^1/3 < n^1/2 < n < n^2 < n^3 < n^4 < 2^n < n^n
 
